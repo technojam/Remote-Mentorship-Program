@@ -17,7 +17,8 @@ So get ready and complete the below tasks to get selected.
 <br/>
 <br/>
 
-## Note
-**_Don't forget to click on each arrow and follow step by step guide to get this course completed._**
+#### Note: _Don't forget to click on each arrow and follow step by step guide to get this course completed._
+
+
 <br/>
 ![](Assets/course-content.jpg)
