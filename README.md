@@ -9,7 +9,7 @@ So get ready and complete the below tasks to get selected.
 
 ## Step 1
 
-* Start by getting your basics clear about github by completing  [this](https://lab.github.com/githubtraining/introduction-to-github) course on github learning lab.
+* Start by getting your basics clear about github by completing  [this](https://lab.github.com/githubtraining/introduction-to-github) course on github learning lab.<br/>
 
 ![Image](Assets/intro-to-github.jpg)
 
@@ -18,5 +18,6 @@ So get ready and complete the below tasks to get selected.
 <br/>
 
 ## Note
-_Don't forget to click on each arrow and follow step by step guide to get this course completed._
+**_Don't forget to click on each arrow and follow step by step guide to get this course completed._**
+<br/>
 ![](Assets/course-content.jpg)
