@@ -27,4 +27,7 @@ So get ready and complete the below tasks to get selected.
 <br/>
 
 ## Finally
-* Fill out [this](https://docs.google.com/forms/d/1DmYiqZ7pC-KjgXPmQcW_dMWosRM7U8bBFjbOxc_9WFg/) google form. Dont forget to add your github link where you completed this course.
+* Fill out [this](https://docs.google.com/forms/d/1DmYiqZ7pC-KjgXPmQcW_dMWosRM7U8bBFjbOxc_9WFg/) google form. 
+Dont forget to add your github link where you completed this course.
+It should look something like 
+https://github.com/your_github_username/github-slideshow
